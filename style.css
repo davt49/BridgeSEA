@@ -1,0 +1,16 @@
+.title{
+  text-align: center;
+}
+
+.home-button{
+  padding: 10px;
+  margin-left: 30px;
+  width: 300px;
+  border-radius: 20%;
+}
+
+.on{
+  color:aqua;
+}
+
+
