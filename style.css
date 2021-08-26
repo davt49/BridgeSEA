@@ -1,16 +1,40 @@
 .title{
   text-align: center;
+  padding: 60px 0;
 }
 
 .home-button{
   padding: 10px;
-  margin-left: 30px;
+  margin-left: 50px;
   width: 300px;
   border-radius: 20%;
 }
 
+.totaldiv{
+  padding-left: 70px;
+  padding-bottom: 50px;;
+}
+
 .on{
   color:aqua;
+}
+
+.questions-page{
+  text-align: center;
+}
+
+.red-focus-text{
+  font-size: 24px;
+  color: #DB2F20;
+}
+
+.basic-text{
+  font-size: 16px;
+}
+
+.results-page{
+  padding-left: 100px;
+  padding-bottom: 200px;
 }
 
 
