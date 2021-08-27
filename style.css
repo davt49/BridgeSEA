@@ -5,18 +5,29 @@
 
 .home-button{
   padding: 10px;
-  margin-left: 50px;
+  margin-left: 70px;
   width: 300px;
   border-radius: 20%;
+  color: #5F259F;
+}
+
+.home-button:hover{
+  background-color:#5F259F;
+  color: #ffffff;
 }
 
 .totaldiv{
-  padding-left: 70px;
-  padding-bottom: 50px;;
+  padding:50px 0 50px 110px;
+  color: #5F259F;
+}
+
+#totalamount{
+  color: #DB2F20;
 }
 
 .on{
-  color:aqua;
+  background-color:#5F259F;
+  color: #ffffff;
 }
 
 .questions-page{
@@ -38,3 +49,17 @@
 }
 
 
+/* results value ids */
+#supplier_product, #quotation_order_process, #expediting_receiving_orders, #processing_invoices, #paying_suppliers{
+  padding: 5px 0;
+  margin: 0;
+  text-align: center;
+  border-radius: 20%;
+  background-color: #DB2F20;
+  color: #ffffff;
+}
+
+#total_process_costs{
+  text-align: center;
+  color:#5F259F;
+}
