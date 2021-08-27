@@ -43,6 +43,11 @@
   font-size: 16px;
 }
 
+.text-light-purple{
+  padding: 2px 0;
+  color: #9671C0;
+}
+
 .results-page{
   padding-left: 100px;
   padding-bottom: 200px;
